@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open-source projects or personal projects
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: DISCORD -> shash#8508
+- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/shashwat-pal-9216981b4/
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact:  -->
 
