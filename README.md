@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on building a customizable link tree tool
+- 🔭 I’m currently working on twitter clone
 <!-- - 🌱 I’m currently learning ... -->
 - 👯 I’m looking to collaborate on open-source projects or personal projects
 <!-- - 🤔 I’m looking for help with ... -->
